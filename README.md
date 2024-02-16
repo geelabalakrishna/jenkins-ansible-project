@@ -1,2 +1,1 @@
-# jenkins-ansible-project
-jenkins-ansible-project
+# myapp-ansible
